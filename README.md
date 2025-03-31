@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Ciao, sono Davide Amato! 🇮🇹 | Hi, I'm Davide Amato! 🇬🇧  
 
-<!--
-**Dada99Dada/Dada99Dada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Back-End Developer** con esperienza in **Java, Spring Boot, REST API e database relazionali**. 
 
-Here are some ideas to get you started:
+## 🔹 Stack tecnologico
+- **Linguaggi & Frameworks:** Java, Spring Boot, Spring MVC, REST API  
+- **Database:** MySQL, PostgreSQL, Oracle DB  
+- **Cloud & Messaging:** Google Cloud, Pub/Sub, Kafka  
+- **Tools:** Git, Splunk, Dynatrace  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 **Contattami:** [LinkedIn](https://www.linkedin.com/in/davide-amato99)  
+
+---
+
+# 👋 Hi, I'm Davide Amato! 🇬🇧  
+
+🚀 **Back-End Developer** with experience in **Java, Spring Boot, REST API e relational databases**. 
+
+## 🔹 Tech Stack  
+- **Languages & Frameworks:** Java, Spring Boot, Spring MVC, REST API  
+- **Databases:** MySQL, PostgreSQL, Oracle DB  
+- **Cloud & Messaging:** Google Cloud, Pub/Sub, Kafka  
+- **Tools:** Git, Splunk, Dynatrace
+
+📫 **Contact me:** [LinkedIn](https://www.linkedin.com/in/davide-amato99)  
