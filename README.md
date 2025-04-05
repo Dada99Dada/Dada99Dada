@@ -1,4 +1,4 @@
-# 👋 Ciao, sono Davide Amato! 🇮🇹 | Hi, I'm Davide Amato! 🇬🇧  
+# 👋 Ciao, sono Davide Amato! 🇮🇹
 
 🚀 **Back-End Developer** con esperienza in **Java, Spring Boot, REST API e database relazionali**. 
 
